@@ -10,9 +10,6 @@ It is built with PHP, SQL, HTML, CSS, and JavaScript.
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
